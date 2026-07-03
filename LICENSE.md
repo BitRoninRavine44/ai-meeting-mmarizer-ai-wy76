@@ -1,4 +1,4 @@
-# 
+# 终极 AI Meeting Notes Summarizer 扩展。集成 图像识别 和 模型优化，性能最大化。
 
 
 
